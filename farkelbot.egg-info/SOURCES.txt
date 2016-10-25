@@ -1,8 +1,0 @@
-setup.py
-farkelbot/__init__.py
-farkelbot/constants.py
-farkelbot/game.py
-farkelbot.egg-info/PKG-INFO
-farkelbot.egg-info/SOURCES.txt
-farkelbot.egg-info/dependency_links.txt
-farkelbot.egg-info/top_level.txt
